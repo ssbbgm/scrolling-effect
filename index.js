@@ -1,0 +1,1 @@
+let bg = document.getElementById('bg');
