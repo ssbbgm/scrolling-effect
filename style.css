@@ -67,3 +67,18 @@ p {
     font-size: 5em;
     color: #fff;
 }
+
+
+@media (max-width: 360px) {
+  #text{
+    font-size: 3.8em;
+    margin-bottom: 200px;
+  }
+  section{
+    height: 80vh;
+  }
+  img#moon{
+    height: auto;
+    width: 400px;
+  }
+}
